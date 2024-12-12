@@ -4,10 +4,10 @@
 - 📫 Best way to reach me is my linkedin profile
 
 Current projects:
-- Soccer games score prediction
-- Birds classification 
+- Advent of code 2024
 
 Previous projects:
-- Shell AI Hackathon
+- Shell AI Hackathons
+- Soccer games score prediction
 - A bunch of web apps
 
