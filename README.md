@@ -4,10 +4,10 @@
 - 📫 Best way to reach me is my linkedin profile
 
 Current projects:
-- Advent of code 2024
+- Advent of code 2025
 
 Previous projects:
-- Shell AI Hackathons
+- Shell AI Hackathons (2020 to 2025)
 - Soccer games score prediction
 - A bunch of web apps
 
